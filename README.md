@@ -1,7 +1,7 @@
 # leetcode
-#reverse_integer
-#reverse_string
-#median_of_two_sorted_arrays
-#two_sum
-#longest_substring_without_repeating_characters
+#reverse_integer,
+#reverse_string,
+#median_of_two_sorted_arrays,
+#two_sum,
+#longest_substring_without_repeating_characters,
 #vjec
